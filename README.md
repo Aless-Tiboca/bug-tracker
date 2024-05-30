@@ -23,11 +23,11 @@ Bug Tracker is a web application designed to manage and track software bugs effi
    cd ../frontend
    npm install
 3. Start the development server:
-   For the backend
+   - For the backend
      ```bash
      node server.js
      ```
-   For the frontend
+   - For the frontend
    ```bash
      npm start
    ```
