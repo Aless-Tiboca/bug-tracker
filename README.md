@@ -28,6 +28,6 @@ Bug Tracker is a web application designed to manage and track software bugs effi
      node server.js
      ```
    - For the frontend
-   ```bash
+     ```bash
      npm start
-   ```
+     ```
