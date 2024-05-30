@@ -10,6 +10,15 @@ Bug Tracker is a web application designed to manage and track software bugs effi
 - **Project Management:** Organize bugs by projects.
 - **Notifications:** Email notifications for assigned bugs and updates.
 
+## Technologies Used
+- **Frontend:**
+  - **React:** A JavaScript library for building user interfaces.
+
+- **Backend:**
+  - **Node.js:** A JavaScript runtime built on Chrome's V8 engine.
+  - **Express.js:** A web application framework for Node.js.
+  - **PostgreSQL:** A powerful, open-source object-relational database system.
+
 ## Installation
 1. Clone the repository:
    ```bash
